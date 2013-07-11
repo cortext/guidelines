@@ -1,21 +1,24 @@
 cortext guidelines
 ==================
 
-# admin
+## admin
 
-- Boxing : [vagrant+virtualbox], [puppet], [docker] 
-- System : [debian]
+- Boxing: [vagrant+virtualbox], [puppet], [docker] 
+- System: [debian]
 
-# web
-- Javascript client/server : [meteor]
-- Librairies : 
+## web
+
+- Javascript client/server: [meteor]
+- Librairies: 
 	- handlebar
 	- jquery
 	- underscore
 	- backbone
-- php Server apps : [silex], [zeromq]
-- css : [bootstrap], [less]
+- php Server apps: [silex], [zeromq]
+- css: [less]
+- iconset: [font awesome](http://fortawesome.github.io/Font-Awesome/icons/)
 
-# methods
+## methods
+
 - scripting [python]
 - computing (textual analysis) [networkxx], [NLTK]
